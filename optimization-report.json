@@ -1,0 +1,34 @@
+[
+  {
+    "source": "extracted_model (2).glb",
+    "output": "glacier.glb",
+    "originalBytes": 56201976,
+    "optimizedBytes": 926252,
+    "originalTriangles": 1966228,
+    "optimizedTriangles": 88480
+  },
+  {
+    "source": "extracted_model.glb",
+    "output": "onyx.glb",
+    "originalBytes": 59497644,
+    "optimizedBytes": 1007912,
+    "originalTriangles": 1913942,
+    "optimizedTriangles": 86127
+  },
+  {
+    "source": "extracted_model (1).glb",
+    "output": "ember.glb",
+    "originalBytes": 57298904,
+    "optimizedBytes": 933692,
+    "originalTriangles": 1967900,
+    "optimizedTriangles": 88554
+  },
+  {
+    "source": "extracted_model (3).glb",
+    "output": "volt.glb",
+    "originalBytes": 54447024,
+    "optimizedBytes": 918340,
+    "originalTriangles": 1934713,
+    "optimizedTriangles": 87059
+  }
+]
